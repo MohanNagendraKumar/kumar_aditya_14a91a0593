@@ -8,6 +8,9 @@ import java.util.Date;
  * or hashCode() method
  * 
  */
+ interface Comparable{
+	 
+ }
 public class Student implements Comparable {
 
 	/**
